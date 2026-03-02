@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "bansari",
+    "DB_PASSWORD": "bankak%3A%2909",
+    "DB_NAME": "mern",
+    "GEOCODING_API_KEY": "...",
+    "JWT_KEY": "supersecretkey"
+  }
+}
